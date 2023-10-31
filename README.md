@@ -1,39 +1,58 @@
-😄 Hey you found me!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3o7TKumnwHrjnE0zD2/giphy.gif" width="100"/>
+</div>
 
-### About
+<h2 align="center">
+  😄 Hey you found me!
+</h2>
 
-I'm Victor, a developer passionate about solving problems and creating software.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/cmarteli">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:caio.marteli@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
-### Tech Stack
-Java  Python  Spring  CSS  HTML  JavaScript  MySQL  Git
-- **Languages:** Java, Kotlin, C#, JavaScript, PHP, Python
-- **Tools & Tech:**  Linux, .NET Core/Framework, Android Studio, Docker, Figma
-- **Concepts:** Agile, Waterfall, Design Patterns, Unit Testing
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cmarteli&style=flat-square&color=blue" alt=""/>
+</div>
 
-### Projects
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  I'm Victor, a developer passionate about solving problems and creating software.
+</h3>
 
-- 📷 Android Photo Gallery - A feature-rich Android app written in Kotlin.
-- 🚨 Disaster Response Simulation - Java application implementing robust design patterns.
-- 🤖 Discord Bot - A versatile Python bot adding fun and functionality to the server.
-- 🚍 P2P Iron Python - A .NET Client/Server P2P program that uses the swarm to solve Python jobs.
+<div align="center">
+  <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-I love connecting with fellow tech enthusiasts and collaborators. Feel free to reach out if you want to chat about tech, projects, or potential partnerships!
+### <div align="center">:hammer_and_wrench: Tech Stack</div>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core/Framework" alt=".NET Core/Framework" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+</div>
 
+---
 
+### <div align="center">:floppy_disk: Projects</div>
 
-<!--
-**cMarteli/cMarteli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <ul>
+    <li>📷 <strong>Android Photo Gallery</strong> - A feature-rich Android app written in Kotlin.</li>
+    <li>🚨 <strong>Disaster Response Simulation</strong> - Java application implementing robust design patterns.</li>
+    <li>🤖 <strong>Discord Bot</strong> - A versatile Python bot adding fun and functionality to the server.</li>
+    <li>🚍 <strong>P2P Iron Python</strong> - A .NET Client/Server P2P program that uses the swarm to solve Python jobs.</li>
+  </ul>
