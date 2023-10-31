@@ -1,8 +1,6 @@
-<h3 align="left">😄 Hey there!</h3>
-
 ### About
 
-<p>I'm Victor, a developer passionate about solving problems and creating software.</p>
+<p> 👋 Hey there! I'm Victor, a developer passionate about solving problems and creating software.</p>
 
 ### Tech Stack
 
