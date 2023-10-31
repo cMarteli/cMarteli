@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/cmarteli">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    <img src="https://komarev.com/ghpvc/?username=cmarteli&style=flat-square&color=white" alt=""/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=red" alt="LinkedIn"/>
+    <img src="https://komarev.com/ghpvc/?username=cmarteli&style=flat-square&color=red" alt=""/>
   </a>
 </p>
