@@ -2,7 +2,7 @@
 
 <p> I'm Victor, a developer passionate about solving problems and creating software.</p>
 
-### Tech Stack
+<h2> Tech Stack </h>
 
 <p>
   <img src="https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white" />
@@ -19,11 +19,7 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
-### Concepts
-
-<p>Agile, Waterfall, Design Patterns, Unit Testing</p>
-
-### Projects
+<h2> Projects </h>
 
 <ul>
   <li>📷 <strong>Android Photo Gallery</strong> - A feature-rich Android app written in Kotlin.</li>
