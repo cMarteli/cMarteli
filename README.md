@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7TKumnwHrjnE0zD2/giphy.gif" width="100"/>
-</div>
-
 <h2 align="center">
   😄 Hey you found me!
 </h2>
@@ -9,9 +5,6 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/cmarteli">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:caio.marteli@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
