@@ -2,7 +2,7 @@
 
 <p> I'm Victor, a developer passionate about solving problems and creating software.</p>
 
-<h2> Tech Stack </h>
+<h2> Tech Stack </h2>
 
 <p>
   <img src="https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
-<h2> Projects </h>
+<h2> Projects </h2>
 
 <ul>
   <li>📷 <strong>Android Photo Gallery</strong> - A feature-rich Android app written in Kotlin.</li>
