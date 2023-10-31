@@ -1,4 +1,5 @@
-<p> 👋 Hey there! I'm Victor, a developer passionate about solving problems and creating software.</p>
+<h2> 👋 Hey there! </h>
+<p> I'm Victor, a developer passionate about solving problems and creating software.</p>
 
 ### Tech Stack
 
