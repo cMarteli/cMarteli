@@ -1,15 +1,5 @@
 😄 Hey you found me!
 
-## Software Developer | Tech Enthusiast
-
----
-
-🌏 Based in Perth, Western Australia
-
-🔗 [LinkedIn](https://linkedin.com/in/cmarteli)
-
----
-
 ### About Me
 
 Hello there! I'm Victor, a software engineer passionate about solving complex problems and creating impactful software.
