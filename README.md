@@ -1,14 +1,14 @@
 😄 Hey you found me!
 
-### About Me
+### About
 
-Hello there! I'm Victor, a software engineer passionate about solving complex problems and creating impactful software.
+I'm Victor, a developer passionate about solving problems and creating software.
 
 ### Tech Stack
 
 - **Languages:** Java, Kotlin, C#, JavaScript, PHP, Python
-- **Tools & Tech:** Docker, .NET, XAMPP, KVM/QEMU, Firebase, Figma
-- **Concepts:** Agile, Waterfall, Design Patterns, JUnit Testing
+- **Tools & Tech:**  Linux, .NET Core/Framework, Android Studio, Docker, Figma
+- **Concepts:** Agile, Waterfall, Design Patterns, Unit Testing
 
 ### Projects
 
