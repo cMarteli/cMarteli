@@ -2,16 +2,6 @@
   😄 Hey you found me!
 </h2>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/cmarteli">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cmarteli&style=flat-square&color=blue" alt=""/>
-</div>
-
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   I'm Victor, a developer passionate about solving problems and creating software.
@@ -49,3 +39,13 @@
     <li>🤖 <strong>Discord Bot</strong> - A versatile Python bot adding fun and functionality to the server.</li>
     <li>🚍 <strong>P2P Iron Python</strong> - A .NET Client/Server P2P program that uses the swarm to solve Python jobs.</li>
   </ul>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/cmarteli">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cmarteli&style=flat-square&color=red" alt=""/>
+</div>
