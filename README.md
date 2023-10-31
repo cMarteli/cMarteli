@@ -5,7 +5,7 @@
 I'm Victor, a developer passionate about solving problems and creating software.
 
 ### Tech Stack
-
+Java  Python  Spring  CSS  HTML  JavaScript  MySQL  Git
 - **Languages:** Java, Kotlin, C#, JavaScript, PHP, Python
 - **Tools & Tech:**  Linux, .NET Core/Framework, Android Studio, Docker, Figma
 - **Concepts:** Agile, Waterfall, Design Patterns, Unit Testing
