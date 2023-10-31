@@ -1,4 +1,4 @@
-# Victor M
+😄 Hey you found me!
 
 ## Software Developer | Tech Enthusiast
 
@@ -6,7 +6,7 @@
 
 🌏 Based in Perth, Western Australia
 
-🔗 [LinkedIn](https://linkedin.com/in/cmarteli) |
+🔗 [LinkedIn](https://linkedin.com/in/cmarteli)
 
 ---
 
