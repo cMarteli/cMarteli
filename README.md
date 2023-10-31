@@ -1,5 +1,3 @@
-### About
-
 <p> 👋 Hey there! I'm Victor, a developer passionate about solving problems and creating software.</p>
 
 ### Tech Stack
