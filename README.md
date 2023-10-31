@@ -42,7 +42,7 @@
 
 ### <div align="center">:floppy_disk: Projects</div>
 
-<div align="center">
+<div align="left">
   <ul>
     <li>📷 <strong>Android Photo Gallery</strong> - A feature-rich Android app written in Kotlin.</li>
     <li>🚨 <strong>Disaster Response Simulation</strong> - Java application implementing robust design patterns.</li>
