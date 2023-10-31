@@ -34,9 +34,11 @@
   <li>🚍 <strong>P2P Iron Python</strong> - A .NET Client/Server P2P program that uses the swarm to solve Python jobs.</li>
 </ul>
 
+<hr>
+
 <p>I love connecting with fellow tech enthusiasts and collaborators. Feel free to reach out if you want to chat about tech, projects, or potential partnerships!</p>
 
-<hr>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/cmarteli">
