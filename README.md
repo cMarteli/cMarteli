@@ -2,7 +2,7 @@
 
 <p> I'm Victor, a developer passionate about solving problems and creating software.</p>
 
-<h2> Tech Stack </h2>
+<h2> ⚙️ Tech Stack </h2>
 
 <p>
   <img src="https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white" />
@@ -19,13 +19,13 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
-<h2> Projects </h2>
+<h2> 💻️ Projects </h2>
 
 <ul>
   <li>📷 <strong>Android Photo Gallery</strong> - A feature-rich Android app written in Kotlin.</li>
   <li>🚨 <strong>Disaster Response Simulation</strong> - Java application implementing robust design patterns.</li>
   <li>🤖 <strong>Discord Bot</strong> - A versatile Python bot adding fun and functionality to the server.</li>
-  <li>🚍 <strong>P2P Iron Python</strong> - A .NET Client/Server P2P program that uses the swarm to solve Python jobs.</li>
+  <li>🐍️ <strong>P2P Iron Python</strong> - A .NET Client/Server P2P program that uses the swarm to solve Python jobs.</li>
 </ul>
 
 <hr>
